@@ -40,4 +40,4 @@ python evals.py
 
 ## Article
 
-[[Error Handling and Production Patterns for LangGraph](https://focused.io/lab/langgraph-agent-error-handling-production)
+[Error Handling and Production Patterns for LangGraph](https://focused.io/lab/langgraph-agent-error-handling-production)
